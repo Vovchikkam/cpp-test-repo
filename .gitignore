@@ -1,1 +1,3 @@
-/YAP/*.doc
+/*.doc
+/bad.cpp
+/bad2.cpp
